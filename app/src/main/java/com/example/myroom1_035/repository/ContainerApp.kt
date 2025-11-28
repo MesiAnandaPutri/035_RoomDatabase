@@ -7,3 +7,6 @@ import com.example.myroom1_035.room.DatabaseSiswa
 interface ContainerApp{
     val repositoriSiswa : RepositoriSiswa
 }
+
+class ContainerDataApp(private val context: Context):
+    ContainerApp{
