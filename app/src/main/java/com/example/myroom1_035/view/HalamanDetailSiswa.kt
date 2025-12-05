@@ -59,3 +59,6 @@ fun DetailSiswaScreen(
                 navigateUp = navigateBack
             )
         },
+        floatingActionButton = {
+            val uiState = viewModel.uiDetailState.collectAsState()
+            FloatingActionButton(
