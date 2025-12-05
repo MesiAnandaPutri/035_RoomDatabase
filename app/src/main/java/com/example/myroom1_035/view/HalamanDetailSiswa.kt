@@ -52,3 +52,10 @@ fun DetailSiswaScreen(
     viewModel: DetailViewModel = viewModel(factory = PenyediaViewModel.Factory)
 ) {
     Scaffold(
+        topBar = {
+            SiswaTopAppBar(
+                title = stringResource(DestinasiDetailSiswa.titleRes),
+                canNavigateBack = true,
+                navigateUp = navigateBack
+            )
+        },
