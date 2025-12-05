@@ -1,8 +1,12 @@
-1. Tampilan home sebelum data ditambahkan
-<img width="336" height="608" alt="Screenshot 2025-11-28 195800" src="https://github.com/user-attachments/assets/f2921549-667f-4cdd-81f9-0c767280944f" />
+1. Tampilan Awal
+<img width="292" height="665" alt="image" src="https://github.com/user-attachments/assets/47bc292b-b91a-4012-95b3-18b5287f812d" />
 
-2. Tampilan Form tambah data siswa
-<img width="337" height="736" alt="Screenshot 2025-11-28 195844" src="https://github.com/user-attachments/assets/2a4fa0c4-00fd-4e7d-b658-b2de966bccac" />
+2. Detail Siswa
+<img width="333" height="700" alt="image" src="https://github.com/user-attachments/assets/a20382ea-9b9d-4ebf-833c-b3708d72b907" />
 
-3. Tampilan home setelah data ditambahkan
-<img width="337" height="742" alt="Screenshot 2025-11-28 195858" src="https://github.com/user-attachments/assets/24db8f79-4401-4925-b239-d43e9d44c4e0" />
+3. Edit Siswa
+<img width="318" height="682" alt="image" src="https://github.com/user-attachments/assets/e1888793-a535-4db3-afe4-ce6106fc097f" />
+
+4. Pop Up
+<img width="327" height="699" alt="image" src="https://github.com/user-attachments/assets/31dd7805-9095-4138-bb39-9243dc971a3c" />
+
